@@ -2,6 +2,8 @@
 
 ### Commercial Strategy & Business Transformation | Data Analytics, Automation & Continuous Improvement
 
+> **Where communication meets data.**
+
 I work where commercial operations, people and information meet. With a background in Organizational Communication, I use data, automation and continuous improvement to turn business needs into clearer processes, useful indicators and practical decision-support routines.
 
 > Technology is an enabler in my work—not the end goal. I use it to improve visibility, collaboration and operational consistency.
@@ -34,8 +36,9 @@ I work where commercial operations, people and information meet. With a backgrou
 
 | Project | Business question | Public scope |
 | --- | --- | --- |
-| [Chassis Operations Platform](https://github.com/JulyaGoncalves21/chassis-operations-platform) | How can teams share a clearer view of vehicle movement status? | Conceptual, sanitized demonstration with synthetic data |
-| [Kaizen Analytics Pipeline](https://github.com/JulyaGoncalves21/kaizen-analytics-pipeline) | How can leaders trust and follow distributed improvement data? | Conceptual validation pipeline with synthetic data |
+| [Vehicle Operations Traceability Platform](https://github.com/JulyaGoncalves21/chassis-operations-platform) | How can teams share a clearer view of vehicle movement status? | Conceptual, sanitized demonstration with synthetic data |
+| [Kaizen Portfolio Analytics](https://github.com/JulyaGoncalves21/kaizen-analytics-pipeline) | How can leaders trust and follow distributed improvement data? | Conceptual validation pipeline with synthetic data |
+| [Data Analysis & Dashboards](https://julyagoncalves21.github.io/#projects) | How can KPIs, CRM, segmentation and campaign signals become useful business information? | Conceptual gallery with synthetic data and identifiers |
 
 Both repositories document transferable problem-solving methods. They contain no employer systems, corporate code, internal data or confidential implementation details.
 
@@ -44,7 +47,7 @@ Both repositories document transferable problem-solving methods. They contain no
 - Kaizen Award — Best Improvement of the Year, Sustainability (2024)
 - Kaizen Highlight — Market Company & PI (2025)
 - VTLA Kaizen Awards — Finalist, Customer category (2025)
-- Volvo Experience — recognition as an ambassador (2025)
+- Experience ambassador recognition (2025) — connecting customer experience, communication and engagement with stakeholder interaction and execution.
 
 ## Languages
 
@@ -59,6 +62,8 @@ Portuguese — native · English — fluent (C2) · Spanish — intermediate (B1
 ## Resumo em português
 
 ### Estratégia Comercial & Transformação de Negócios | Análise de Dados, Automação & Melhoria Contínua
+
+> **Onde a comunicação encontra os dados.**
 
 Atuo onde operações comerciais, pessoas e informação se encontram. Com formação em Comunicação Organizacional, uso dados, automação e melhoria contínua para transformar necessidades de negócio em processos mais claros, indicadores úteis e rotinas práticas de apoio à decisão.
 
